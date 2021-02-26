@@ -26,9 +26,8 @@
 
 # Build an AOSP ROM with one easy script! You will need to have the repo synced
 # and configured already, use this page to help you with that:
-# https://raw.githubusercontent.com/nathanchance/Android-Tools/master/Building_AOSP.txt
-#
-# HINT: You can add the folder this is in to your PATH variable so you can
+# https://raw.githubusercontent.com/XenonTheInertG/RomKer-ScribT/main/Build-Juicy-Roms.shhttps://raw.githubusercontent.com/XenonTheInertG/RomKer-ScribT/main/Build-Juicy-Roms.sh 
+NT: You can add the folder this is in to your PATH variable so you can
 # run it from anywhere like so:
 # $ nano ~/.bashrc
 # Add  export PATH=$PATH:<path_to_folder>  to the end of that file
