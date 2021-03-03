@@ -5,6 +5,6 @@ This a dummy file, magics are in the shell scrips
 A custom ROM is essentially a firmware based on the Android source code provided by Google. A lot of people prefer custom ROMs because of the functionality they offer, and the ability to customise many things on the phone. ... Here's a quick guide on how you can install a stable custom ROM on your device.
 # What's a Custom Kernel?
 The kernel has complete control over the system. ... Android is a famous operating system that features a lot of custom kernel out there for almost every phone nowadays. Custom Kernels not only offer security updates, but also various improvements over the Stock Kernel. However, it is important to choose a Custom Kernel.
-
+# Here is an useful guide[https://forum.xda-developers.com/t/guide-complete-android-rom-development-from-source-to-end.2814763/]
 Enjoy😉
 Have a great day:))
