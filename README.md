@@ -1,3 +1,4 @@
+![Screenshot_20210322-205403-1](https://user-images.githubusercontent.com/78007167/112010718-c2199380-8b51-11eb-8217-145babd63c3d.jpg)
 # Roms & Kernels Compliation
 Build AOSP,LOS based custom rom &  custom Kernels easily
 This a dummy file, magics are in the shell scrips
